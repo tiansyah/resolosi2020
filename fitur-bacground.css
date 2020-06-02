@@ -5,17 +5,23 @@ body
 ul
 {list-style-type:square; list-style-images:none; list-style-position:none;}
 
+
 h1
-{color:white;}
-
-p
-{font-family:verdana; font-size:40px;}
-
-b
-{color:green;}
-u
 {color:black;}
+
 l
 {color:green;}
+
+p
+{font-family:times new roman; text-size:20px; text-align:center;}
+
+b
+{color:red;}
+u
+{color:yellow;}
+
+
+border
+{border-style-type:double; border-bottom-type:groove;}
 
 </style>
