@@ -14,7 +14,10 @@ h1
 b
 {color:red;}
 u
-{color:green;}
+{color:yelloq;}
 l
 {color:yellow;}
+
+border
+{border-style-type:double; border-bottom-type:groove;}
 </style>
