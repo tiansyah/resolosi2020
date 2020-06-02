@@ -4,4 +4,17 @@ body
 
 ul
 {list-style-type:square; list-style-images:none; list-style-position:none;}
+
+p
+{font-family:times new roman; text-size:20px; text-align:center;}
+
+h1
+{}
+
+b
+{color:red;}
+u
+{color:green;}
+l
+{color:yellow;}
 </style>
