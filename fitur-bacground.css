@@ -1,3 +1,7 @@
+<style>
 body
-{background-color:blue; font-family:verdana; color:white;}
+{background-color:blue; font-family:verdana; color:white; background-repeat:repeat; background-position:center;}
 
+ul
+{list-style-type:square; list-style-images:none; list-style-position:none;}
+</style>
