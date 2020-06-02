@@ -5,19 +5,23 @@ body
 ul
 {list-style-type:square; list-style-images:none; list-style-position:none;}
 
-p
-{font-family:times new roman; text-size:20px; text-align:center;}
 
 h1
-{}
+{color:black;}
+
+l
+{color:green;}
+
+p
+{font-family:times new roman; text-size:20px; text-align:center;}
 
 b
 {color:red;}
 u
-{color:yelloq;}
-l
 {color:yellow;}
+
 
 border
 {border-style-type:double; border-bottom-type:groove;}
+
 </style>
